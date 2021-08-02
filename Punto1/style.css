@@ -1,0 +1,65 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background: url("./library.jpg");
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+
+}
+div {
+  font-size: 1.2em;
+  background-color: #CBC8C7;
+  width: 50em;
+  height: 4em;
+  border: 1px solid #E1DEDD;
+  border-radius: 20px;
+position: relative;
+left: 11em;
+top: 8em;
+
+}
+ul{
+
+  list-style-type: none;
+}
+li a{
+  color: #1D52A8;
+  text-decoration: none;
+}
+#about{
+ position: relative;
+ left: 1em;
+ top: 0.3em;
+}
+#onLine{
+  position: relative;
+  left: 14em;
+  bottom: 0.9em;
+}
+#books{
+  position: relative;
+  left: 24.9em;
+  bottom: 2em;
+}
+#blogs{
+  position: relative;
+  left: 37em;
+  bottom: 3.2em;
+}
+a:link{
+ color: red;
+}
+a:visited{
+ color: green;
+}
+a:hover{
+ color: black;
+}
+a:active{
+color: blue;
+}
+img{
+  position: relative;
+  left: 35em;
+  top: 25em;
+}
